@@ -1,2 +1,2 @@
-# atcoder
-### atcoderで解いた問題をあげていきます
+# AtCoder
+### AtCoderで解いた問題をあげていきます
